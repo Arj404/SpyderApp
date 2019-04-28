@@ -1,3 +1,3 @@
 1    ./appify script.sh "spyder"
 2    chmod +x spyder.app
-3    touch /$HOME/spyder.app 
+3    touch ./spyder.app 
