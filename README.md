@@ -7,7 +7,7 @@ Install Spyder<br>
 pip install python-language-server</b><br>
 download spyder repo from git<br>
 unzip it and open terminal in spyder repo<br>
-<b>sudo python setup.py install<b><br>
+<b>sudo python setup.py install</b><br>
 if spyder not opening add its path to PATH
 
 #### Step Two
